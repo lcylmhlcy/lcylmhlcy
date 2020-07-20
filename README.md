@@ -1,5 +1,5 @@
 ### Hi there 👋
-![heihei](./cat1.png)
+![heihei](https://github.com/lcylmhlcy/lcylmhlcy/blob/master/cat1.png)
 
 <!--
 **lcylmhlcy/lcylmhlcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
