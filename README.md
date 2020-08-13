@@ -1,7 +1,7 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/lcylmhlcy/count.svg" />
 </p>
 
 <!--
