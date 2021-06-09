@@ -1,9 +1,8 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lcylmhlcy/count.svg" />
-</p>
-<p  align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lcylmhlcy&show_icons=true&locale=en" alt="lcylmhlcy" />
+</p>
+<p align="left"> 
+  <b>Visitor count:</b> <img src="https://profile-counter.glitch.me/lcylmhlcy/count.svg" />
 </p>
 
 <!--
