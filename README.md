@@ -1,9 +1,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=lcylmhlcy&show_icons=true&locale=en" alt="lcylmhlcy" />
 </p>
-<p align="left"> 
-  <b>Visitor count:</b> <img src="https://profile-counter.glitch.me/lcylmhlcy/count.svg" />
-</p>
 
 <!--
 **lcylmhlcy/lcylmhlcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> 
+  <b>Visitor count:</b> <img src="https://profile-counter.glitch.me/lcylmhlcy/count.svg" />
+</p>
+
 -->
